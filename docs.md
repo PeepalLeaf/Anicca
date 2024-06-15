@@ -1,5 +1,9 @@
 
-First line. Second line. Third Line. And so on. Until the end. 
+First line. 
+
+Second line. 
+
+Third Line. And so on. Until the end. 
 
 This documentation describes how to use the Pavel robotic
 toothbrush.
