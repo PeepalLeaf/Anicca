@@ -1,0 +1,2 @@
+# Anicca
+sabba loko pakampito
